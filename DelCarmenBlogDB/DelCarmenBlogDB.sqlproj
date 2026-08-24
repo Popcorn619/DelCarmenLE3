@@ -6,7 +6,7 @@
     <Name>DelCarmenBlogDB</Name>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
-    <ProjectGuid>{44b46d0e-20fb-e4f1-61dd-7be0445774b6}</ProjectGuid>
+    <ProjectGuid>{4cec01ae-8236-47a6-a1e2-a995ca3c5bfd}</ProjectGuid>
     <DSP>Microsoft.Data.Tools.Schema.Sql.Sql170DatabaseSchemaProvider</DSP>
     <OutputType>Database</OutputType>
     <RootPath>
