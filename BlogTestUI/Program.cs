@@ -31,11 +31,7 @@ namespace BlogTestUI
             SqlData db = GetConnection();
             Console.WriteLine("Connected to database!\n");
 
-            // Uncomment the feature you want to test:
-            // Register(db);
-            // Authenticate(db);
-            // AddPost(db);
-            // ListPosts(db);
+            
             ShowPostDetails(db);
 
             Console.WriteLine("\nPress Enter to exit...");
